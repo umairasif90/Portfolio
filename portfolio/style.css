@@ -1,0 +1,99 @@
+.head{
+    background-color: rgb(116, 114, 114);
+
+}
+.head ul li a{
+    color: black;
+    color: white;
+}
+.head ul li a:hover{
+    background-color: black;
+    color: chocolate;
+    transition: all ease 0.4s;
+    border-radius: 5px;
+}
+.name{
+  
+    color: white;
+ 
+    display: flex;
+
+}
+.hireme{
+    background-color: black !important;
+    color: white !important;
+}
+.hireme:hover{
+    background-color: transparent !important;
+    transition: all ease 0.5s;
+    color: chocolate !important;
+}
+.umair{
+color: chocolate;
+}
+.cover{
+    width: 300px;
+    height: 400px;
+}
+.jum{
+    background-color: rgb(61, 61, 61);
+}
+.hello ,.and{
+    color: white;
+}
+.who{
+    color: chocolate;
+}
+.aboutme{
+    display: flex;
+}
+.im{
+    /* margin-top: 50px;
+margin-left: 100px; */
+}
+.myservices{
+    background-color:rgb(61, 61, 61);
+}
+.serv{
+    width: 50px;
+    height: 250px;
+}
+
+.myskills{
+    background-color: chocolate;
+}
+.contactme{background-color: rgb(61, 61, 61);}
+.gg{
+    color: white;
+}
+.main-con{
+    display: flex;
+}
+.send{
+    background-color: white !important;
+}
+.send:hover{
+    background-color: black !important;
+    color: chocolate !important;
+    transition: all ease 0.4s;
+}
+.social{
+   font-size: 20px;
+   padding: 5px;
+}
+.social a{
+    text-decoration: none;
+    color: chocolate;
+}
+.social a:hover{
+    text-decoration: none;
+    color: white;
+    transition: all ease 0.5s;
+}
+.footer{
+ color: white;
+    background-color: rgb(14, 13, 13);
+}
+.ss{
+    color: chocolate;
+}

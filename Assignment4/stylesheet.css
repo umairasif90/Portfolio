@@ -1,0 +1,87 @@
+.bar{
+    background-color: rgb(223, 154, 25);
+    margin-top:10px;
+    padding-top: 1em;
+}
+.baig{
+    color: rgb(29, 28, 28);
+    font-family: 'Courier New', Courier, monospace;
+}
+.home{
+    color: white;
+}
+.carousel-inner{
+    padding-top: 10px;
+}
+.im{
+    height: 600px;
+}
+.wo{
+    color: rgb(223, 154, 25);
+    padding-top: 35px;
+}
+.bk{
+    background-color: rgb(214, 214, 214);
+}
+.cardd{
+    padding-top: 13px;
+}
+
+.cdd{
+    font-size: 15px;
+    color: rgb(0, 21, 211);
+}
+.connect{
+    /* padding-top: 20px;*/
+padding-bottom: 70px;
+    background-color: rgb(214, 214, 214);
+    color: white;
+}
+.lii img{
+    padding-top: 30px;
+    width: 40px;
+    height: 60px;
+}
+.ss{
+    color: black;
+    /* padding-top: 10px;
+    padding-left: 60px; */
+}
+.no{
+ position: relative;
+ top:15px;
+ color: black;
+ left: 10px;
+}
+.footer{
+    background-color: black;
+    width: 100%;
+    padding-top: 30px;
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.terms{
+    color: rgb(223, 154, 25) ;
+    text-align: center;
+    padding-top: 20px;
+}
+.mail{
+    padding-top: 50px;
+}
+.maill{
+    padding-top: 50px;
+}
+.figure-img{
+    width: 250px;
+    height: 300px;
+}
+.f{
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.logo{
+    width:180px;
+    height:30px;
+}

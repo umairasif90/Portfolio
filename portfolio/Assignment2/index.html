@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="style.css">
+    <title>login form</title>
+</head>
+
+<body>
+    <img src="images/Saylani-logo.png" alt="saylani" class="center">
+    <h1 class="heading1">
+        STUDENTS REGISTERATION FORM
+    </h1>
+    <div class="container">
+        <form action="success.html">
+            <label for="fname">FIRST NAME:
+                <input class="fname" type="text" name="firstname" maxlength="30" placeholder="Enter First Name"
+                    required>(max:30
+                characters a-z or A-Z)</label><br><br>
+            <label for="lname">LAST NAME:
+                <input class="lname" type="text" name="lastname" maxlength="30" placeholder="Enter Last Name"
+                    required>(max:30 characters
+                a-z or A-Z)</label><br><br>
+            <label for="dob">DATE OF BIRTH:
+                <input class="dob" type="date" name="dateofbirth" required></label><br><br>
+            <label for="email">EMAIL-ID:
+                <input class="email" type="email" name="Email-id" placeholder="Enter Email"></label><br><br>
+            <label for="phonenumber">PHONE NUMBER
+                <input class="phone" type="number" name="phonenumber" maxlength="10" placeholder="Enter Phone Number"
+                    required>(10 digits
+                number)
+            </label><br><br>
+            <label for="gender">GENDER:
+                <span class="gender">
+                    male <input type="radio" name="gender" required>
+                    female<input type="radio" name="gender" required></span>
+            </label><br><br>
+            <label for="address">ADDRESS:
+                <textarea class="address" type="text" name="address" required></textarea>
+            </label><br><br>
+            <label for="city">CITY:
+                <input class="city" type="text" name="city" maxlength="30" placeholder="Enter City" required>(max:30
+                characters a-z or A-Z)</label><br><br>
+            <label>PIN CODE:
+                <input class="pin" type="number" name="pincode" maxlength="6" placeholder="Enter Pincode">(6 digits
+                number)
+            </label><br><br>
+            <label>STATE:
+                <input class="state" type="text" name="state" placeholder="Enter State">(max 30 characters a-z and A-Z)
+            </label><br><br>
+            <label>COUNTRY:
+                <input class="country" type="text" name="country" placeholder="Enter Country">
+            </label><br><br>
+            
+            <label>HOBBIES:
+                <span class="hobbies">
+                drawing<input type="checkbox" name="hobbies" value="drawing">
+                singing<input type="checkbox" name="hobbies" value="singing">
+                dancing<input type="checkbox" name="hobbies" value="dancing">
+                sketching<input type="checkbox" name="hobbies" value="sketching"></span><br>
+                <span class="hobbies2">others<input type="checkbox" name="hobbies" value="others">
+                      <input type="text" name="hobbies"></span>
+            </label><br><br>
+            <p>QUALIFICATION:
+                <div class="education">
+                <table>
+                    <tr>
+                        <th>S.NO</th>
+                        <th>Examination</th>
+                        <th>Board</th>
+                        <th>Percentage</th>
+                        <th>Year of Passing</th>
+                    </tr>
+                    <tr>
+                        <td>
+                            <ol>
+                                <li></li><br>
+                                <li></li><br>
+                                <li></li><br>
+                                <li></li><Br>
+
+                            </ol>
+                        </td>
+                        <td>
+                            <ul style="list-style:none">
+                                <li>Class X</li><br>
+                                <li>Class Xll</li><br>
+                                <li>Graduation</li><br>
+                                <li>Masters</li><br>
+                            </ul>
+                        </td>
+                        <td>
+                            <ul style="list-style: none;">
+                                <li><input type="text" name="classx"></li><br>
+                                <li><input type="text" name="classxll"></li><br>
+                                <li><input type="text" name="graduation"></li><br>
+                                <li><input type="text" name="masters"></li><br>
+
+                            </ul>
+                        </td>
+                        <td>
+                            <ul style="list-style: none;">
+                                <li><input type="number" name="classx"></li><br>
+                                <li><input type="number" name="classxll"></li><br>
+                                <li><input type="number" name="graduation"></li><br>
+                                <li><input type="number" name="masters"></li><br>
+                            </ul>
+                        </td>
+                        <td>
+                            <ul style="list-style: none;">
+                                <li><input type="number" name="classx"></li><br>
+                                <li><input type="number" name="classxll"></li><br>
+                                <li><input type="number" name="graduation"></li><br>
+                                <li><input type="number" name="masters"></li><br>
+                            </ul>
+                        </td>
+
+                    </tr>
+                </table></div>
+            </p>
+            <span>
+            <label>Courses 
+                <br>Applied For:</label></span>
+            <span class="course">
+                BCA<input type="radio" name="course" value="bca">
+                B.Com<input type="radio" name="course" value="bcom">
+                B.Sc<input type="radio" name="course" value="bsc">
+                B.A<input type="radio" name="course" value="B.A"></span>
+            <br><br>
+            <div class="button">
+            <input type="submit"> <input type="reset">
+        </div>
+
+        </form>
+    </div>
+
+
+</body>
+
+</html>

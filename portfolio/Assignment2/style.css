@@ -1,0 +1,117 @@
+
+.container{
+    background-color:#7F38EC;
+    color: white;
+}
+.center{
+    display: block;
+    width: 300px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    
+}
+.heading1{
+    font-family: Arial;
+    font-size: 20px;
+    background-color: white;
+    text-decoration: underline;
+    text-decoration-color: #7F38EC;
+    color: #7F38EC;
+    text-align: center;
+}
+.fname{
+    padding: 12px 20px;
+    margin-top: 6px;
+    margin-inline-start: 100px;
+  
+}
+.lname{
+  padding: 12px 20px;
+  margin-top: 6px;
+  margin-inline-start:  100px;
+}
+.dob{
+    padding: 12px 20px;
+    margin: 6px;
+    margin-inline-start: 70px;
+}
+.email{
+    padding: 12px 20px;
+  margin: 6px;
+  margin-inline-start: 110px;
+}
+.phone{
+    padding: 12px 20px;
+    margin: 6px;
+    margin-inline-start: 60px;
+}
+.gender{
+    padding: 12px 20px;
+    margin-inline-start: 100px;
+   
+}
+.address{
+    padding: 20px 50px;
+    margin-inline-start: 100px;
+}
+.city{
+    padding: 12px 20px;
+    margin-inline-start: 140px;
+}
+.pin{
+    padding: 12px 20px;
+    margin-inline-start: 100px;
+}
+.state{
+    padding: 12px 20px;
+    margin-inline-start: 125px;
+}
+.country{
+    padding: 12px 20px;
+    margin-inline-start: 96px;
+}
+.hobbies{
+    padding: 12px 20px;
+    margin-inline-start: 78px;
+}
+.hobbies2{
+    padding: 12px 20px;
+    margin-inline-start: 154px;
+}
+.education{
+    padding: 12px 20px;
+    margin-inline-start: 154px;
+}
+.course{
+    padding: 12px 20px;
+    margin-inline-start: 70px;
+}
+.button{
+    padding: 12px 20px;
+    border-radius: 4px;
+    margin: 4px 2px;
+    text-decoration: none;
+    border: none;
+    text-align: center;
+    
+}
+.success{
+    display: block;
+    width: 300px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+.link
+{
+    display: block;
+    font-size: 20px;
+    padding-top: 200px;
+    padding-right: 50px;
+    margin-inline-start: 50%;
+}
+
+

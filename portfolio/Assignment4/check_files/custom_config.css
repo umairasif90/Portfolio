@@ -1,0 +1,196 @@
+@import url('//fonts.googleapis.com/css?family=Montserrat:300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,900,900italic');body{font-family: "Montserrat", arial, tahoma;font-weight: normal;}#mainMenu{font-family: "Montserrat";}
+				h1{font-family: "Montserrat";}
+				h2{font-family: "Montserrat";}
+				h3{font-family: "Montserrat";}
+				h4{font-family: "Montserrat";}
+				h5{font-family: "Montserrat";}
+				h6{font-family: "Montserrat";}
+				.price, .price-box .price{font-family: "Montserrat";}
+				.btn{font-family: "Montserrat";}
+				blockquote,.sub-title, .content-heading .block-note{font-family: "Montserrat";}
+				.header{position:relative;z-index:99;}
+.big-item .products-grid .product-item-info.metro_template .product-top a.photo{padding-top:calc(133.3333% - 10px)!important}
+.products-grid .big-item .product-item-info.metro_template .product-top a.photo{padding-bottom:calc(133.3333% - 10px)!important}
+@media (min-width:1200px) {
+.cms-index-index .header.header8 .vertical-menu-widget .vertical-menu{padding-bottom:60px}
+.header.header10 .navigation .nav-main-menu{transform:translateX(20px);-moz-transform:translateX(20px);-webkit-transform:translateX(20px);-ms-transform:translateX(20px)}
+}
+@media (min-width: 1200px) {
+
+.header .top-header-content .top-middle-header { white-space: nowrap; }
+.header .top-header-content .top-middle-header b, .header .top-header-content .top-middle-header strong { font-weight: 600; }
+}
+.header.header9 .vertical-menu-widget .vertical-menu{padding-bottom:31px}
+.rotate-image-container .rotate-j360{cursor:move}
+.mgs-quickview-catalog-product-view .product-detail-infomation.col-xs-12{height:auto!important}
+.success-ajax--popup .mfp-iframe-holder .mfp-close{top:-13px!important}
+.page-layout-3columns .category-product-actions .filter-toggle,.page-layout-2columns-right .category-product-actions .filter-toggle,.page-layout-2columns-left .category-product-actions .filter-toggle{display:none}
+.filter .filter-title{display:none}
+.page-layout-1column .category-product-actions .filter-toggle{float:left;width:20%}
+.filter-open .page-layout-1column .category-product-actions .filter-toggle .title:after{position:fixed;left:0;right:0;top:0;bottom:0;background-color:#000;opacity:.8;display:block;content:"";z-index:998}
+.page-layout-1column .category-product-actions .filter-toggle .title{font-size:36px;cursor:pointer;line-height:1;color:#222}
+.page-layout-1column .category-product-actions .filter-toggle .title>span{-moz-transform:rotate(-90deg);-ms-transform:rotate(-90deg);-o-transform:rotate(-90deg);-webkit-transform:rotate(-90deg)}
+.filter-open .page-layout-1column .block.filter .block-content.filter-content{opacity:1;visibility:visible;transform:translateX(0);-webkit-transform:translateX(0);-moz-transform:translateX(0);-o-transform:translateX(0)}
+@media (max-width: 991px) {
+.checkout-container{z-index:98}
+}
+.catalog-product-view .lazy-loading-img .page-main>div.row{margin-right:0}
+.header.header5 .table-icon-menu .minicart-wrapper .block-minicart{left:auto;z-index:999}
+.minicart-wrapper.active:after{opacity:.7}
+@media (min-width: 768px) {
+.product-detail-infomation-sticky-parent>.col-xs-12+div{width:50%!important}
+}
+/* Custom Mobile Side Nav CSS */ 
+.mega-menu-content { padding-right: 200px; }
+.mega-menu-content .right_content.static-content { position: absolute; top: 5px; right: 15px; width: 180px !important; }
+.mega-menu-content .menu-banner { width: 180px; }
+@media (max-width: 1199px) {
+#mainMenu .mega-menu-content .row { display: block; }
+#mainMenu .mega-menu-content .row .col-md-2 { width: 100%; }	
+}
+.category-new-in .category-view { display: none; }
+@media (max-width: 1199px) {
+	/* Background-images Start */
+	.header:not(.header6):not(.header7) .nav-main-menu li.new-cat {
+		background-image: url(https://pk.khaadi.com/media/wysiwyg/mobile-categories-images/new-in-woman.jpg);
+	}
+	.header:not(.header6):not(.header7) .nav-main-menu li.unstitched-cat {
+		background-image: url(https://pk.khaadi.com/media/wysiwyg/unstitched-nav.jpg);
+	}
+	.header:not(.header6):not(.header7) .nav-main-menu li.ready-wear-cat {
+		background-image: url(https://pk.khaadi.com/media/wysiwyg/10032020/readytowear10032020.jpg);
+	}
+	.header:not(.header6):not(.header7) .nav-main-menu li.kids-cat {
+		background-image: url(https://pk.khaadi.com/media/wysiwyg/kids-nav.jpg);
+	}
+	.header:not(.header6):not(.header7) .nav-main-menu li.accessories-cat {
+		background-image: url(https://pk.khaadi.com/media/wysiwyg/accessories-nav.jpg);
+	}
+	.header:not(.header6):not(.header7) .nav-main-menu li.home-cat {
+		background-image: url(https://pk.khaadi.com/media/wysiwyg/home-nav.jpg);
+	}
+	.header:not(.header6):not(.header7) .nav-main-menu li.beauty-cat {
+		background-image: url(https://pk.khaadi.com/media/wysiwyg/beauty-nav.jpg);
+	}
+	.header:not(.header6):not(.header7) .nav-main-menu li.chapter-cat {
+		background-image: url(https://pk.khaadi.com/media/wysiwyg/mobile-categories-images/chapter2.jpg);
+	}	
+	.header:not(.header6):not(.header7) .nav-main-menu li.sale-cat {
+		background-image: url(https://pk.khaadi.com/media/wysiwyg/mobile-categories-images/sale.jpg);
+	}
+	.header:not(.header6):not(.header7) .nav-main-menu li.unstitched-cat .mega-menu-content:before {
+		background-image: url(https://pk.khaadi.com/media/wysiwyg/unstitched-nav.jpg);
+	}
+	.header:not(.header6):not(.header7) .nav-main-menu li.ready-wear-cat .mega-menu-content:before {
+		background-image: url(https://pk.khaadi.com/media/wysiwyg/10032020/readytowear10032020.jpg);
+	}
+	.header:not(.header6):not(.header7) .nav-main-menu li.kids-cat .mega-menu-content:before {
+		background-image: url(https://pk.khaadi.com/media/wysiwyg/kids-nav.jpg);
+	}
+	.header:not(.header6):not(.header7) .nav-main-menu li.accessories-cat .mega-menu-content:before {
+		background-image: url(https://pk.khaadi.com/media/wysiwyg/accessories-nav.jpg);
+	}
+	.header:not(.header6):not(.header7) .nav-main-menu li.home-cat .mega-menu-content:before {
+		background-image: url(https://pk.khaadi.com/media/wysiwyg/home-nav.jpg);
+	}
+	.header:not(.header6):not(.header7) .nav-main-menu li.beauty-cat .mega-menu-content:before {
+		background-image: url(https://pk.khaadi.com/media/wysiwyg/beauty-nav.jpg);
+	}
+	/* Background-images End */
+}
+@media(max-width:766px){
+
+.page-product-configurable .related-product-main .block-content.content{
+padding-right:20px;
+}
+.owl-carousel .owl-nav>div.owl-prev{left: 10px;}
+.owl-carousel .owl-nav>div.owl-next{right: 20px;}
+}
+
+@media screen and (max-device-width: 736px) and (orientation: landscape){
+
+.page-wrapper .category-view .category-description > div h2{
+font-size:26px;
+margin-top: 40px;
+}
+
+}
+
+@media screen and (max-device-width: 480px) and (orientation: portrait){
+
+.page-wrapper .category-view .category-description > div h2{
+font-size:26px;
+margin-top: 30px;
+}
+body.catalog-category-view .category-view .category-image img{
+max-width:170%;
+}
+
+
+}
+
+.header .top-header-content{display:none !important;}
+.form-create-account .actions-toolbar .action.back{
+    color: #fff;
+    border: 2px solid #222;
+    background-color: #222;
+}
+.form-create-account .actions-toolbar .action.back:hover{
+
+border: 2px solid #989898;
+    background-color: #989898;
+}
+
+@media (min-width: 1200px) {
+
+.header:not(.header6):not(.header7) .navigation .nav-main-menu li.mega-menu-fullwidth:not(.menu-2columns)>ul.dropdown-menu{
+min-height: 210px;
+}
+
+}
+
+
+
+@media (max-width: 1199px){
+.header:not(.header6):not(.header7) .nav-main-menu li.custom-category-mobile.sale-cat>.level0{
+pointer-events: none;
+}
+
+
+
+.header:not(.header6):not(.header7) .nav-main-menu li.custom-category-mobile.sale-cat>ul.dropdown-menu>li{
+
+position:relative;
+padding-top:200px;
+
+}
+.header:not(.header6):not(.header7) .nav-main-menu li.custom-category-mobile.sale-cat>ul.dropdown-menu>li:before{
+    position: absolute;
+    width: 100%;
+    height: 200px;
+    background-image: url(https://pk.khaadi.com/media/wysiwyg/mobile-categories-images/sale.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    left: 0px;
+    top: 0;
+    content: "SALE";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 200px;
+    text-align: center;
+    color: #fff;
+
+}
+
+.header:not(.header6):not(.header7) .nav-main-menu li.custom-category-mobile.sale-cat>ul.dropdown-menu li.level1 a {
+    font-size: 12px;
+    padding: 2px 0px 2px 0px !important;
+    border:none;
+}
+
+.header:not(.header6):not(.header7) .nav-main-menu li.custom-category-mobile.sale-cat>ul.dropdown-menu>li>ul {
+    padding-top: 20px;
+    padding-left: 40px;
+}
+
+}
